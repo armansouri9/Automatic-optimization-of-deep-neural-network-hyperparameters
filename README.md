@@ -141,6 +141,9 @@ Accuracy: 0.5
 Loss: 0.6931471824645996
 
 Feel free to explore and modify the code to suit your needs.
+## License
+
+This project is licensed under a Free License.
 
 ---
 
@@ -148,6 +151,4 @@ Note: The code provided assumes the presence of a `config.ini` file containing t
 
 
 
-## License
 
-This project is licensed under a Free License.
